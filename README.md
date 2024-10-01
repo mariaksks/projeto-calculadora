@@ -1,3 +1,3 @@
 # Projeto-calculadora
-Calculadora feita pela linguagem javascript
+Calculadora realizada com a linguagem javascript
 
